@@ -1,3 +1,5 @@
 Juan Diego Ordoñez Londoño
 Edad 18 años
 Mi aspiración para esta materia es dominar los conceptos básicos de la programación orientada a objetos y con esto aplicar lo aprendido en sistemas industriales y administrativos
+El sistema nos permitio subir la carpeta ahora porque la creacion del archivo dentro de ella da pie a un cambio significativo a diferencia de su simple creacion
+Se debe tener cuidado al modificar dos archivos al mismo tiempo porque se puede generar errores de versiones que van a provocar coliciones entre el trabajo de cada indivio y en el peor de los casos la perdida del trabajo de alguno
